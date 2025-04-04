@@ -1,7 +1,8 @@
 streamlit
 pandas
-mathplotlib
+matplotlib
+plotly
+Pillow
 utilidades
-plotly.express
-PIL
-plotly.graph_objects
+statsmodels
+seaborn
