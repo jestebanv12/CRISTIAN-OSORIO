@@ -6,3 +6,8 @@ Pillow
 utilidades
 statsmodels
 seaborn
+pydeck
+streamlit-folium
+folium
+numpy
+xlsxwriter
